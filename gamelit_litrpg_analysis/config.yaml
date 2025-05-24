@@ -1,0 +1,7 @@
+user_agent: "Mozilla/5.0"
+base_url: "https://www.amazon.com/s?i=digital-text&rh=n%3A154606011"
+review_pages: 5
+sleep_seconds: 5
+data_dir: "./data"
+database_url: "sqlite:///data/analysis.db"
+royalty_rate: 0.7
